@@ -48,7 +48,7 @@ while (opcao ) {
 
     break;
   default:
-    printf("\n\n\t\tADEUS");
+    printf("\n\n\t\tERRO\n");
   }
   // switch - case para a leitura da varíavel "
 
