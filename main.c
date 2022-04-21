@@ -20,7 +20,7 @@ ele escolher qual ele vai alterar);
 while (opcao ) {
    printf(
       "\n=================================================\n\n\t\tMENU PRINCIPAL\n\n\t1-LISTAR O NOME DOS PRODUTOS\n\t2-LISTAR "
-      "O NOME E O PREÇO DOS PRODUTOS\n\t3-ALTERAR O PREÇO DO "
+      "O NOME E O PREÇO DOS PRODUTOS\n\t3-ALTERAR O PREÇO DOS "
       "PRODUTOS\n\n=================================================\n\t "
       "Digite a opção ou 0 para parar: ");
        scanf("%d", &opcao);
