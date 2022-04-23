@@ -42,7 +42,7 @@ ele escolher qual ele vai alterar);
              "======="
              "===========\nDigite o código do produto que deseja alterar: ");
       scanf("%d", &codigo);
-      // if-else para a leitura do código digitado e leitura da variável "preco"
+      // if-else para leitura da variável "preco" e indentificar um código inválido
       if (codigo == 1 || codigo == 2 || codigo == 3 || codigo == 4 ||
           codigo == 5) {
         printf("Digite o novo preço: ");
