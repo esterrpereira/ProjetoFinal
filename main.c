@@ -50,6 +50,8 @@ ele escolher qual ele vai alterar);
       } else
         printf("ERRO!! CÓDIGO INVÁLIDO");
     } break;
+      default:
+        printf("\n\n\t\tERRO!");
     }
   }
 }
