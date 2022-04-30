@@ -31,13 +31,13 @@ int main(void) {
              "ABOBRINHA\n\t\t5-BRÓCOLIS\n");
       break;
     case 2:
-      printf("\n\n\t\t1-TOMATE\t\tR$ %f\n\t\t2-CEBOLA\t\tR$ %f\n\t\t3-"
-             "CENOURA\t\tR$ %f\n\t\t4-ABOBRINHA\t\tR$%f\n\t\t5-BRÓCOLIS\t\tR$"
-             "%f\n",
-             precoT, precoC, precoCN, precoA, precoB);
+      printf(
+          "\n\n\t\t1-TOMATE\t\tR$\t%f\n\t\t2-CEBOLA\t\tR$\t%f\n\t\t3-"
+          "CENOURA\t\tR$\t%f\n\t\t4-ABOBRINHA\t\tR$\t%f\n\t\t5-BRÓCOLIS\t\tR$"
+          "\t%f\n",
+          precoT, precoC, precoCN, precoA, precoB);
       break;
 
-      break;
     case 3: {
       printf("\n\n\t\t[1]\t\tTOMATE\n\t\t[2]\t\tCEBOLA\n\t\t[3]"
              "\t\tCENOURA\n\t\t[4]\t\t"
